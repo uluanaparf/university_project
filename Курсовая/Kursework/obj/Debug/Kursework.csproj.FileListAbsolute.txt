@@ -1,0 +1,13 @@
+D:\МиАПР\Курсовая\Kursework\bin\Debug\Kursework.exe.config
+D:\МиАПР\Курсовая\Kursework\bin\Debug\Kursework.exe
+D:\МиАПР\Курсовая\Kursework\bin\Debug\Kursework.pdb
+D:\МиАПР\Курсовая\Kursework\obj\Debug\Kursework.csproj.SuggestedBindingRedirects.cache
+D:\МиАПР\Курсовая\Kursework\obj\Debug\Kursework.StartForm.resources
+D:\МиАПР\Курсовая\Kursework\obj\Debug\Kursework.Properties.Resources.resources
+D:\МиАПР\Курсовая\Kursework\obj\Debug\Kursework.csproj.GenerateResource.cache
+D:\МиАПР\Курсовая\Kursework\obj\Debug\Kursework.csproj.CoreCompileInputs.cache
+D:\МиАПР\Курсовая\Kursework\obj\Debug\Kursework.exe
+D:\МиАПР\Курсовая\Kursework\obj\Debug\Kursework.pdb
+D:\МиАПР\Курсовая\Kursework\obj\Debug\Kursework.MainForm.resources
+D:\МиАПР\Курсовая\Kursework\obj\Debug\Kursework.MatrixForm.resources
+D:\МиАПР\Курсовая\Kursework\obj\Debug\Kursework.csproj.AssemblyReference.cache
