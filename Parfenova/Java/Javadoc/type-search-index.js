@@ -1,0 +1,1 @@
+typeSearchIndex = [{"p":"<Unnamed>","l":"AboutAuthorWindow"},{"p":"<Unnamed>","l":"AboutProgrammWindow"},{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"<Unnamed>","l":"Application"},{"p":"<Unnamed>","l":"ChartWindow"},{"p":"<Unnamed>","l":"SearchFunction"},{"p":"<Unnamed>","l":"StartWindow"},{"p":"<Unnamed>","l":"TextAnalyzerHelper"}];updateSearchResults();

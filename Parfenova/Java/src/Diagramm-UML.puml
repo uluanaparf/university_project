@@ -1,0 +1,54 @@
+@startuml
+
+class JFrame {
+  # size: Dimension
+  # defaultCloseOperation: int
+  # contentPane: Container
+  # layout: LayoutManager
+  # setLocationRelativeTo(component: Component): void
+  # setDefaultCloseOperation(operation: int): void
+  + setVisible(visible: boolean): void
+}
+
+class Application {
+    - textArea: JTextArea
+    - resultArea: JTextArea
+    - searchField: JTextField
+    - chartWindow: ChartWindow
+    + Application()
+    + runApplication(): void
+    - openFile(): void
+    - saveResult(): void
+}
+
+class ChartWindow {
+    - letterCount: Map<Character, Integer>
+    + ChartWindow(letterCount: Map<Character, Integer>)
+    + displayChart(): void
+    - drawChart(g: Graphics): void
+    - getMaxCount(): int
+}
+
+class SearchFunction {
+    - textArea: JTextArea
+    + SearchFunction(textArea: JTextArea)
+    + highlightText(searchTerm: String): void
+}
+
+class AboutAuthorWindow {
+    + aboutAuthor(): void
+}
+
+class AboutProgrammWindow {
+    + AboutProgrammWindow()
+}
+
+
+
+JFrame --|> Application
+JFrame --|> ChartWindow
+JFrame --|> SearchFunction
+Application --|> AboutAuthorWindow
+Application --|> AboutProgrammWindow
+
+@enduml
