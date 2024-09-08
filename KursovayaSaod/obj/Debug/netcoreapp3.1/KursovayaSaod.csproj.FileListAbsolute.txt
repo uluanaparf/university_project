@@ -1,0 +1,63 @@
+D:\c##\KursovayaSaod\obj\Debug\netcoreapp3.1\KursovayaSaod.csprojAssemblyReference.cache
+D:\c##\KursovayaSaod\obj\Debug\netcoreapp3.1\KursovayaSaod.Form1.resources
+D:\c##\KursovayaSaod\obj\Debug\netcoreapp3.1\KursovayaSaod.csproj.GenerateResource.cache
+D:\c##\KursovayaSaod\obj\Debug\netcoreapp3.1\KursovayaSaod.AssemblyInfoInputs.cache
+D:\c##\KursovayaSaod\obj\Debug\netcoreapp3.1\KursovayaSaod.AssemblyInfo.cs
+D:\c##\KursovayaSaod\obj\Debug\netcoreapp3.1\KursovayaSaod.csproj.CoreCompileInputs.cache
+D:\c##\KursovayaSaod\bin\Debug\netcoreapp3.1\KursovayaSaod.exe
+D:\c##\KursovayaSaod\bin\Debug\netcoreapp3.1\KursovayaSaod.deps.json
+D:\c##\KursovayaSaod\bin\Debug\netcoreapp3.1\KursovayaSaod.runtimeconfig.json
+D:\c##\KursovayaSaod\bin\Debug\netcoreapp3.1\KursovayaSaod.runtimeconfig.dev.json
+D:\c##\KursovayaSaod\bin\Debug\netcoreapp3.1\KursovayaSaod.dll
+D:\c##\KursovayaSaod\bin\Debug\netcoreapp3.1\KursovayaSaod.pdb
+D:\c##\KursovayaSaod\obj\Debug\netcoreapp3.1\KursovayaSaod.dll
+D:\c##\KursovayaSaod\obj\Debug\netcoreapp3.1\KursovayaSaod.pdb
+D:\c##\KursovayaSaod\obj\Debug\netcoreapp3.1\KursovayaSaod.genruntimeconfig.cache
+C:\Users\pavly\Desktop\KursovayaSaod\bin\Debug\netcoreapp3.1\KursovayaSaod.exe
+C:\Users\pavly\Desktop\KursovayaSaod\bin\Debug\netcoreapp3.1\KursovayaSaod.deps.json
+C:\Users\pavly\Desktop\KursovayaSaod\bin\Debug\netcoreapp3.1\KursovayaSaod.runtimeconfig.json
+C:\Users\pavly\Desktop\KursovayaSaod\bin\Debug\netcoreapp3.1\KursovayaSaod.runtimeconfig.dev.json
+C:\Users\pavly\Desktop\KursovayaSaod\bin\Debug\netcoreapp3.1\KursovayaSaod.dll
+C:\Users\pavly\Desktop\KursovayaSaod\bin\Debug\netcoreapp3.1\KursovayaSaod.pdb
+C:\Users\pavly\Desktop\KursovayaSaod\obj\Debug\netcoreapp3.1\KursovayaSaod.csproj.AssemblyReference.cache
+C:\Users\pavly\Desktop\KursovayaSaod\obj\Debug\netcoreapp3.1\KursovayaSaod.Form1.resources
+C:\Users\pavly\Desktop\KursovayaSaod\obj\Debug\netcoreapp3.1\KursovayaSaod.csproj.GenerateResource.cache
+C:\Users\pavly\Desktop\KursovayaSaod\obj\Debug\netcoreapp3.1\KursovayaSaod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pavly\Desktop\KursovayaSaod\obj\Debug\netcoreapp3.1\KursovayaSaod.AssemblyInfoInputs.cache
+C:\Users\pavly\Desktop\KursovayaSaod\obj\Debug\netcoreapp3.1\KursovayaSaod.AssemblyInfo.cs
+C:\Users\pavly\Desktop\KursovayaSaod\obj\Debug\netcoreapp3.1\KursovayaSaod.csproj.CoreCompileInputs.cache
+C:\Users\pavly\Desktop\KursovayaSaod\obj\Debug\netcoreapp3.1\KursovayaSaod.dll
+C:\Users\pavly\Desktop\KursovayaSaod\obj\Debug\netcoreapp3.1\KursovayaSaod.pdb
+C:\Users\pavly\Desktop\KursovayaSaod\obj\Debug\netcoreapp3.1\KursovayaSaod.genruntimeconfig.cache
+C:\Users\pavly\Desktop\БнТу\2курс1сем\курсач_Саод\KursovayaSaod\bin\Debug\netcoreapp3.1\KursovayaSaod.exe
+C:\Users\pavly\Desktop\БнТу\2курс1сем\курсач_Саод\KursovayaSaod\bin\Debug\netcoreapp3.1\KursovayaSaod.deps.json
+C:\Users\pavly\Desktop\БнТу\2курс1сем\курсач_Саод\KursovayaSaod\bin\Debug\netcoreapp3.1\KursovayaSaod.runtimeconfig.json
+C:\Users\pavly\Desktop\БнТу\2курс1сем\курсач_Саод\KursovayaSaod\bin\Debug\netcoreapp3.1\KursovayaSaod.runtimeconfig.dev.json
+C:\Users\pavly\Desktop\БнТу\2курс1сем\курсач_Саод\KursovayaSaod\bin\Debug\netcoreapp3.1\KursovayaSaod.dll
+C:\Users\pavly\Desktop\БнТу\2курс1сем\курсач_Саод\KursovayaSaod\bin\Debug\netcoreapp3.1\KursovayaSaod.pdb
+C:\Users\pavly\Desktop\БнТу\2курс1сем\курсач_Саод\KursovayaSaod\obj\Debug\netcoreapp3.1\KursovayaSaod.csproj.AssemblyReference.cache
+C:\Users\pavly\Desktop\БнТу\2курс1сем\курсач_Саод\KursovayaSaod\obj\Debug\netcoreapp3.1\KursovayaSaod.Form1.resources
+C:\Users\pavly\Desktop\БнТу\2курс1сем\курсач_Саод\KursovayaSaod\obj\Debug\netcoreapp3.1\KursovayaSaod.csproj.GenerateResource.cache
+C:\Users\pavly\Desktop\БнТу\2курс1сем\курсач_Саод\KursovayaSaod\obj\Debug\netcoreapp3.1\KursovayaSaod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pavly\Desktop\БнТу\2курс1сем\курсач_Саод\KursovayaSaod\obj\Debug\netcoreapp3.1\KursovayaSaod.AssemblyInfoInputs.cache
+C:\Users\pavly\Desktop\БнТу\2курс1сем\курсач_Саод\KursovayaSaod\obj\Debug\netcoreapp3.1\KursovayaSaod.AssemblyInfo.cs
+C:\Users\pavly\Desktop\БнТу\2курс1сем\курсач_Саод\KursovayaSaod\obj\Debug\netcoreapp3.1\KursovayaSaod.csproj.CoreCompileInputs.cache
+C:\Users\pavly\Desktop\БнТу\2курс1сем\курсач_Саод\KursovayaSaod\obj\Debug\netcoreapp3.1\KursovayaSaod.dll
+C:\Users\pavly\Desktop\БнТу\2курс1сем\курсач_Саод\KursovayaSaod\obj\Debug\netcoreapp3.1\KursovayaSaod.pdb
+C:\Users\pavly\Desktop\БнТу\2курс1сем\курсач_Саод\KursovayaSaod\obj\Debug\netcoreapp3.1\KursovayaSaod.genruntimeconfig.cache
+C:\Users\User\Downloads\Telegram Desktop\360zip ZIP file\KursovayaSaod\bin\Debug\netcoreapp3.1\KursovayaSaod.exe
+C:\Users\User\Downloads\Telegram Desktop\360zip ZIP file\KursovayaSaod\bin\Debug\netcoreapp3.1\KursovayaSaod.deps.json
+C:\Users\User\Downloads\Telegram Desktop\360zip ZIP file\KursovayaSaod\bin\Debug\netcoreapp3.1\KursovayaSaod.runtimeconfig.json
+C:\Users\User\Downloads\Telegram Desktop\360zip ZIP file\KursovayaSaod\bin\Debug\netcoreapp3.1\KursovayaSaod.runtimeconfig.dev.json
+C:\Users\User\Downloads\Telegram Desktop\360zip ZIP file\KursovayaSaod\bin\Debug\netcoreapp3.1\KursovayaSaod.dll
+C:\Users\User\Downloads\Telegram Desktop\360zip ZIP file\KursovayaSaod\bin\Debug\netcoreapp3.1\KursovayaSaod.pdb
+C:\Users\User\Downloads\Telegram Desktop\360zip ZIP file\KursovayaSaod\obj\Debug\netcoreapp3.1\KursovayaSaod.csproj.AssemblyReference.cache
+C:\Users\User\Downloads\Telegram Desktop\360zip ZIP file\KursovayaSaod\obj\Debug\netcoreapp3.1\KursovayaSaod.Form1.resources
+C:\Users\User\Downloads\Telegram Desktop\360zip ZIP file\KursovayaSaod\obj\Debug\netcoreapp3.1\KursovayaSaod.csproj.GenerateResource.cache
+C:\Users\User\Downloads\Telegram Desktop\360zip ZIP file\KursovayaSaod\obj\Debug\netcoreapp3.1\KursovayaSaod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Downloads\Telegram Desktop\360zip ZIP file\KursovayaSaod\obj\Debug\netcoreapp3.1\KursovayaSaod.AssemblyInfoInputs.cache
+C:\Users\User\Downloads\Telegram Desktop\360zip ZIP file\KursovayaSaod\obj\Debug\netcoreapp3.1\KursovayaSaod.AssemblyInfo.cs
+C:\Users\User\Downloads\Telegram Desktop\360zip ZIP file\KursovayaSaod\obj\Debug\netcoreapp3.1\KursovayaSaod.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\Telegram Desktop\360zip ZIP file\KursovayaSaod\obj\Debug\netcoreapp3.1\KursovayaSaod.dll
+C:\Users\User\Downloads\Telegram Desktop\360zip ZIP file\KursovayaSaod\obj\Debug\netcoreapp3.1\KursovayaSaod.pdb
+C:\Users\User\Downloads\Telegram Desktop\360zip ZIP file\KursovayaSaod\obj\Debug\netcoreapp3.1\KursovayaSaod.genruntimeconfig.cache
